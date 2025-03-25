@@ -1,0 +1,15 @@
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\bin\Debug\net8.0\debugging-with-vscode.exe
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\bin\Debug\net8.0\debugging-with-vscode.deps.json
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\bin\Debug\net8.0\debugging-with-vscode.runtimeconfig.json
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\bin\Debug\net8.0\debugging-with-vscode.dll
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\bin\Debug\net8.0\debugging-with-vscode.pdb
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.AssemblyInfoInputs.cache
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.AssemblyInfo.cs
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.csproj.CoreCompileInputs.cache
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.sourcelink.json
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.dll
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\refint\debugging-with-vscode.dll
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.pdb
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\debugging-with-vscode.genruntimeconfig.cache
+C:\Users\sugiyamaeigo\Documents\C-Sharp-Practice\debugging-with-vscode\obj\Debug\net8.0\ref\debugging-with-vscode.dll
