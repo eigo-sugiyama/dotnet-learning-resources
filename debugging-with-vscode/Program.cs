@@ -1,14 +1,18 @@
-﻿namespace HelloWorld;
+﻿int result = Fibonacci(5);
+Console.WriteLine(result);
 
-class Program
+static int Fibonacci(int n)
 {
-    static void Main(string[] args)
+    int n1 = 0;
+    int n2 = 1;
+    int sum;
+
+    for (int i = 2; i < n; i++)
     {
-        Console.WriteLine("What is your name?");
-        var name = Console.ReadLine();
-        var currentDate = DateTime.Now;
-        Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-        Console.Write($"{Environment.NewLine}Press any key to exit...");
-        Console.ReadKey(true);
+        sum = n1 + n2;
+        n1 = n2;
+        n2 = sum;
     }
+
+    return n == 0 ? n1 : n2;
 }
